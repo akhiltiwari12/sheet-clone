@@ -2,7 +2,7 @@
 
 A fully-featured spreadsheet application built with React and TypeScript that mimics the functionality of Google Sheets.
 
-![Google Sheets Clone](https://images.unsplash.com/photo-1544383835-bda2bc66a55d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+
 
 ## Features
 
@@ -52,8 +52,8 @@ This application requires the following dependencies:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/google-sheets-clone.git
-cd google-sheets-clone
+git clone https://github.com/akhiltiwari12/sheet-clone.git
+cd sheet-clone
 ```
 
 2. Install dependencies:
@@ -66,14 +66,7 @@ npm install
 npm run dev
 ```
 
-4. Build for production:
-```bash
-npm run build
-```
 
-5. Preview the production build:
-```bash
-npm run preview
 ```
 
 ## Usage Guide
